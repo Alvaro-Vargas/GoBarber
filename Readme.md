@@ -11,12 +11,10 @@ The objective of this project is to create a complete application (Back-end, Fro
 - **YUP** - Schema validation
 - **bcrypt** - Create/Validate password hash
 - **jwt** - Create/validate sessions
-
 ___
 
 - **Sucrase** - Allow to use more recent JS functionalities.
 - **Nodemon** - Monitor changes and restart the server
-
 ___
 - **ESLint** - Style guide: Airbnb
 - **Prettier** - Code formatter
