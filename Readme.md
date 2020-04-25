@@ -1,4 +1,13 @@
+<div align=center>
+
 # GoBarber
+
+</div>
+
+<div align=center>
+  <img src='./img/barbershop.jpeg' >
+</div>
+
 
 ## About
 The objective of this project is to create a complete application (Back-end, Front-end e Mobile) for Barbershops scheduling management.
