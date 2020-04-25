@@ -5,7 +5,7 @@
 </div>
 
 <div align=center>
-  <img src='./img/barbershop.jpeg' >
+  <img src='./img/barbershop.png' >
 </div>
 
 
