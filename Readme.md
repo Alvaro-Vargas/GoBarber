@@ -30,7 +30,9 @@ ___
 
 
 ## Business Requirements
-- As a User/Client I should be able to schedule (create/cancel) appointments
-- As a User/Client I should be able to add a avatar
-- As a User/Provider I should be able to list my appointments for the day
+- Create/update users
+- Upload profile pictures
+- Login / Create session
+- Create/update/delete appointments
+-
 
