@@ -28,10 +28,6 @@ class ScheduleController {
       order: ['date'],
     });
 
-    const the_user_id = req.userId;
-    const startOfDay1 = startOfDay(parsedDate);
-    const endOfDay1 = endOfDay(parsedDate);
-
     return res.json({ appointments });
   }
 }
