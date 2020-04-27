@@ -41,6 +41,11 @@ ___
 - **pg-hstore** - Serializing and deserializing JSON data to hstore format
 - **mongoose** - Mongodb object modeling for node.js
 ---
+#### Exception treatment
+**@sentry/node** - Package to connect to Sentry
+**express-async-errors** - Express cannot cath `async` errors. This extension solves that
+**youch** - Error message treatment
+---
 #### Email :email:
 - **nodemailer** - Module for email sending.
 - **express-handlebars** - Handlebars view engines for Express
@@ -83,6 +88,9 @@ GUI for MongoDB. <br>
 SMTP testing server. <br>
 [Check it out!](https://mailtrap.io/)
 
+### Sentry
+Error monitoring
+[Check it out!](https://sentry.io/welcome/)
 
 ### VSCode 👨🏻‍💻
 

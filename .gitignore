@@ -1,2 +1,3 @@
 node_modules
 /src/config/mail.js
+/src/config/sentry.js
