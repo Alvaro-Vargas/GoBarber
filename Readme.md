@@ -42,9 +42,9 @@ ___
 - **mongoose** - Mongodb object modeling for node.js
 ---
 #### Exception treatment
-**@sentry/node** - Package to connect to Sentry
-**express-async-errors** - Express cannot cath `async` errors. This extension solves that
-**youch** - Error message treatment
+- **@sentry/node** - Package to connect to Sentry
+- **express-async-errors** - Express cannot cath `async` errors. This extension solves that
+- **youch** - Error message treatment
 ---
 #### Email :email:
 - **nodemailer** - Module for email sending.
@@ -96,14 +96,31 @@ Error monitoring
 
 #### Plugins:
 **Code Spell Checker** - streetsidesoftware.code-spell-checker <br>
+Simple spell checker
+
 **Color Highlight** - naumovs.color-highlight <br>
+Style css/web colors found in the document
+
 **Dracula Official** - dracula-theme.theme-dracula <br>
+Dark Theme for VSCode
+
 **EditorConfig for VS Code** - editorconfig.editorconfig <br>
+User/Workspace settings
+
 **ESLint** - dbaeumer.vscode-eslint <br>
+Integrate ESLing with VSCode
+
 **Markdown Preview Github Styling** - bierner. markdown-preview-github-styles <br>
-**Github Markdown Preview**- bierner.github-markdown-preview
-(extension Pack) <br>
+Markdown Preview to help with the ReadMe/documentation.
+
+**Github Markdown Preview**- bierner.github-markdown-preview <br>
+Markdown Preview to help with the ReadMe/documentation.
+
 **Material Icon Theme** - pkief.material-icon-theme <br>
+Folder icons.
+
+**DotENV** - mikestead.dotenv <br>
+.env syntax highligh.
 
 ##### Personal config
 ```javascript
