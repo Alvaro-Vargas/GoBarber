@@ -52,7 +52,7 @@ ___
 - **nodemailer-express-handlebars** - Generate html emails.
 ---
 #### Miscellaneous :crystal_ball:
-- **date-fns**  - Date utility library
+- **date-fns@next**  - Date utility library
 - **multer** - Node.js middleware for handling `multipart/form-data`, primarily used for uploading files.
 - **bee-queue** - job/task queue for Node.js, backed by Redis.
 ---
